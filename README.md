@@ -15,3 +15,12 @@
 Видеопрезентация работы приложения представлена на канале youtube
 
 https://www.youtube.com/watch?v=OTJ987JhK0A
+
+Для запуска приложения предварительно необходимо установить зависимости
+- opencv-python
+- glob
+- argparse
+- ultralytics
+- supervision
+- pygame
+- streamlit
